@@ -18,6 +18,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
+They sent him back to her. The letter came  
+Saying... and she could have him. And before  
+She could be sure there was no hidden ill  
+Under the formal writing, he was in her sight—  
+Living.— They gave him back to her alive—  
 
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
