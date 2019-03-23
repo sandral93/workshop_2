@@ -15,6 +15,11 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+In stature the Manlet was dwarfish--  
+No burly, big Blunderbore he;  
+And he wearily gazed on the crawfish  
+His Wifelet had dressed for his tea.  
+'Now reach me, sweet Atom, my gunlet,  
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
